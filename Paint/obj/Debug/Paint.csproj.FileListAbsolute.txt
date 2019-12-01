@@ -1,0 +1,9 @@
+D:\Visual Studio 2019\Projects\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Visual Studio 2019\Projects\Paint\Paint\bin\Debug\Paint.exe
+D:\Visual Studio 2019\Projects\Paint\Paint\bin\Debug\Paint.pdb
+D:\Visual Studio 2019\Projects\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\Visual Studio 2019\Projects\Paint\Paint\obj\Debug\Paint.Form1.resources
+D:\Visual Studio 2019\Projects\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Visual Studio 2019\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Visual Studio 2019\Projects\Paint\Paint\obj\Debug\Paint.exe
+D:\Visual Studio 2019\Projects\Paint\Paint\obj\Debug\Paint.pdb
